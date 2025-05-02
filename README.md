@@ -1,4 +1,4 @@
-# Movie-Ratings-Trend-Analysis-2015-2016-
+# Movie-Ratings-Trend-Analysis-2015-2016
 
 ## Overview
 This project analyzes Fandango's movie ratings data for 2015 and 2016 to explore trends in movie ratings and evaluate any changes following a bias correction in Fandango's rating system. The analysis includes data wrangling, exploratory data analysis (EDA), and visualizations to compare the distribution of movie ratings across both years.
