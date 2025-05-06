@@ -15,7 +15,7 @@ movie_ratings_16_17.csv: Movie ratings data for 2016 and 2017.
 
 fandango_scrape.csv: Scraped data for Fandango ratings comparison.
 
-Mission410Solutions.Rmd: R markdown file with the complete analysis, code, and visualizations.
+Movie_Rating_Analysis.Rmd: R markdown file with the complete analysis, code, and visualizations.
 
 ## Technologies Used
 R
